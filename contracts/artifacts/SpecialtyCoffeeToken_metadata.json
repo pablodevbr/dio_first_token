@@ -274,11 +274,11 @@
 	},
 	"sources": {
 		"contracts/specialtycoffeetoken.sol": {
-			"keccak256": "0xc70805df65182f2e5306b69ab4f04f31e48ed137ebffdc144dbf6cf2fd301615",
+			"keccak256": "0x4b16573c3c606539cf7995d0596a5e58820868fddea3fde33af248f5f3257cbf",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ed62a891a208c432c0e9c54574d00e6db73f4e686c27292cb1c2e948ec8b3318",
-				"dweb:/ipfs/QmVD6tQcqqbQsYGRDWqTKamE55Rm3grrDNaGJLxNWsDjPU"
+				"bzz-raw://d40ca590b64a65e5b6b4deb3360a5b2494c38143345b3a07e09ac3af9fc5e74b",
+				"dweb:/ipfs/QmeZWVeAuSuVcVbPeNc2B8oLpEKqqJJPGexQn31ZGmZ2CT"
 			]
 		}
 	},

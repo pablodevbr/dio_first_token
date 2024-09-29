@@ -19,7 +19,7 @@ interface ERC20Interface{
 contract SpecialtyCoffeeToken is ERC20Interface{
     string public symbol = "COFFEE" ;
     string public  name = "Specialty Coffee Token";
-    uint8 public decimals = 10;
+    uint8 public decimals = 2;
     uint256 public _totalSupply;
  
     mapping(address => uint) balances;
